@@ -1,6 +1,6 @@
-# Web Development Lessons Summary
+# Web Development Tutoring Lessons Summary (T001-T004) #
 
-## 1. HTML Structure and Semantic Elements
+## 1. HTML Structure and Semantic Elements ## 
 
 - The `<frame>` tag is obsolete and replaced by `<iframe>`.
 - Modern HTML emphasizes **semantic tags** such as `<main>`, `<aside>`, `<nav>`, `<footer>`, `<article>`, and `<section>`.
@@ -17,7 +17,7 @@ id="greeting"
 
 **Format:** `attribute="value"`
 
-### Links
+### Links ### 
 
 Links can point to:
 - The same page (anchors)
@@ -25,7 +25,12 @@ Links can point to:
 
 ### Debugging ###
 
-The term **"debug"** comes from the 1960s when an actual insect ("bug") caused a malfunction in an early computer. Debugging means finding and fixing errors in code. Commenting your code helps isolate and resolve issues.
+**Debugging** is the process of finding and fixing errors in code. The term comes from the 1940s–1950s computing era: engineers literally found an insect (“bug”) causing a malfunction in the **Harvard Mark II computer**. Removing the insect and fixing the issue was called *“debugging,”* and the name stuck.
+
+**Key points**:
+
+1. Debugging involves systematically isolating problems to identify the cause.
+2. Commenting code and testing small parts separately helps locate bugs efficiently.
 
 ---
 
@@ -172,4 +177,4 @@ It’s useful for research, restoration, and checking old site content.
 
 ---
 
-© Compiled from lecture notes on HTML5 and Semantic Web Development.
+© Compiled from lecture notes on HTML5 and Semantic Web Development - From Tutoring 001 to Tutoring 004
